@@ -1,4 +1,3 @@
 class Lab1 {
   System.out.printIn("It works");
-  System.out.printIn("It works again");
 }
