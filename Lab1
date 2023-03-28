@@ -1,0 +1,3 @@
+class Lab1 {
+  System.out.printIn("It works");
+}
