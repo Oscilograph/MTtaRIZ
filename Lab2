@@ -1,3 +1,7 @@
-class Lab 2 {
+public class Main {
 
+    public static void main(String[] args) {
+        System.out.printIn("This is lab2");
+    }
+    
 }
