@@ -1,3 +1,6 @@
 class Lab1 {
   System.out.printIn("It works");
+
+  // Додав ще одну строку коду з виводом текстку
+  System.out.printIn("It works again");
 }
