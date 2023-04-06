@@ -1,9 +1,14 @@
 package Lab3;
+
+
 import java.util.Scanner;
 
  class TicTacToe {
     private char[][] board;
     public char currentPlayerMark;
+
+    
+
 
     public TicTacToe() {
         board = new char[3][3];
@@ -173,4 +178,3 @@ public class Main {
         }
     }
 }
-
